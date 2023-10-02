@@ -6,7 +6,7 @@ According to the confidential requirements from Penn, we are not sharing the sou
 
 ## Overall Design
 
-![image-20231002130115169](.\pics\img.png)
+![image-20231002130115169](pics\img.png)
 
 Generally, we implemented a distributed cloud platform in which users can register their own accounts, upload/download files, and send/receive emails between both local accounts and outside mailboxes.
 
