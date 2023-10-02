@@ -1,0 +1,23 @@
+This is the demo github repo for the PennCloud project: A Cloud Platform with Services Analogous to Gmail & Google Drive.
+
+According to the confidential requirements from Penn, we are not sharing the source code and binaries. You can click [here](https://www.youtube.com/watch?v=CPbpUIeX2to) for a demo video for this platform. We also attached the final report for design details. Thanks!
+
+
+
+## Overall Design
+
+![image-20231002130115169](.\pics\img)
+
+Generally, we implemented a distributed cloud platform in which users can register their own accounts, upload/download files, and send/receive emails between both local accounts and outside mailboxes.
+
+
+
+## **Team Members and Responsibilities**
+
+Zhijun Zhuang: Admin server, load balancers, replication, log & checkpoint, heartbeats
+
+Zheng Han: UI and API design for User Account / File / Folder / Mail / Admin Console
+
+Bowen Jiang: HTTP servers for User Account / File / Folder / Mail
+
+Wendi Zhang: Key-Value Store, SMTP
