@@ -1,4 +1,4 @@
-This is the demo github repo for the PennCloud project: A Cloud Platform with Services Analogous to Gmail & Google Drive.
+This is the demo github repo for the PennCloud project: Full-Stack Distributed Cloud Platform with Email and Storage Service.
 
 According to the confidential requirements from Penn, we are not sharing the source code and binaries. We attached the final report for design details in this repo, and you can also click [here](https://www.youtube.com/watch?v=CPbpUIeX2to) for a supplemental video for this platform. Thanks!
 
